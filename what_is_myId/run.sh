@@ -1,0 +1,1 @@
+nvcc displayID.cu -o display
